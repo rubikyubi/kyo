@@ -20,7 +20,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://lambe.info/wp-content/uploads/2025/01/icon.png" />
   <link rel="canonical" href="https://denislapalus.com/" />
-  <link rel="amphtml" href="https://salomex.site/probike/" />
+  <link rel="amphtml" href="https://salomex.site/denislapalus/" />
   <!-- start preload -->
   <link rel="preload" href="https://lambe.info/wp-content/uploads/2025/02/slotqris2.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
